@@ -20,9 +20,10 @@ const mohamed = {
   code: ["HTML", "CSS", "JavaScript", "C#", "SQL"],
   backend: ["ASP.NET Core", ".NET Core", "Web API"],
   database: ["SQL Server"],
+  lowCode: ["OutSystems"],
   tools: ["Git", "GitHub"],
   architecture: ["OOP", "REST APIs", "Layered Architecture"],
-  currentFocus: "Mastering ASP.NET Core & Building Full Stack Applications",
-  challenge: "Building a Gym Training & Nutrition App with AI 💪",
+  currentFocus: "Learning ASP.NET Core & OutSystems",
+  challenge: "Developing an AI-Powered Fitness Application 💪",
 }
            
